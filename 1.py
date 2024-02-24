@@ -1,2 +1,3 @@
 room=int(input("1"))
-floor 
+#floor
+floor = room//8
