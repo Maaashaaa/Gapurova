@@ -1,4 +1,4 @@
-num1 = float(input("Введите первое число:"))
-num2 = float(input("Введите второе число:"))
-sum_numbers = num1 + num2
-print("Сумма чисел равна:", sum_numbers)
+import numpy as np
+a = [1, 2, 3]
+b = np.array([1, 2, 3])
+print (a+a, b+b)

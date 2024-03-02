@@ -1,3 +1,1 @@
-s = "change me"
-s = "changE mE"
-print(s)
+import numpy as np
